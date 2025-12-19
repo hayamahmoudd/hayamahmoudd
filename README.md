@@ -5,17 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hayamahmoud/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:hmahmo03@uoguelph.ca">
-    <img alt="Email" src="https://img.shields.io/badge/Email-hmahmo03%40uoguelph.ca-F472B6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://hayaa.dev">
-    <img alt="Website" src="https://img.shields.io/badge/Website-hayaa.dev-D6C7A1?style=for-the-badge&logo=vercel&logoColor=4B3621" />
-  </a>
+  <a href="https://www.linkedin.com/in/hayamahmoud/">LinkedIn</a> ·
+  <a href="mailto:hmahmo03@uoguelph.ca">hmahmo03@uoguelph.ca</a> ·
+  <a href="https://hayaa.dev">hayaa.dev</a>
 </p>
 
 ---
