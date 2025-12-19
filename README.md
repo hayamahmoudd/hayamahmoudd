@@ -22,7 +22,7 @@
 ---
 
 ## 👩‍💻 About me
-I'm a Software Engineering (Co-op) student at the University of Guelph (AI emphasis). I enjoy building practical products—especially full-stack apps and data-driven tools—and I love projects that turn messy data into something useful.
+I'm a Software Engineering (Co-op) student at the University of Guelph with an emphasis in AI. I enjoy building practical products, especially full-stack apps and data driven and AI powered tools.
 
 ---
 
