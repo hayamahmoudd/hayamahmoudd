@@ -30,29 +30,6 @@ I'm a Software Engineering (Co-op) student at the University of Guelph with an e
 
 ---
 
-## 🌟 Featured projects
-
-### 🗺️ ShelterMap Toronto (Sheridan Datathon 2025)
-Full-stack web app built in a 24-hour hackathon that cleans and joins homelessness datasets, mapping high-pressure areas to help identify priority neighbourhoods.  
-**Tech:** Next.js, Leaflet, Python, Google Cloud  
-**Repo:** https://github.com/hayamahmoudd/Datathon2025
-
-### 📊 Job Vacancy Analysis (Statistics Canada)
-Explored **219,912** job-vacancy records across **33** quarters, **14** regions, and **119** industries to surface trends over time.  
-**Tech:** Python, Git
-
-### 🤖 AI Career Finder
-Web app that uses Gemini to generate **2–3** focused career paths based on user interests, intentionally kept concise and actionable.  
-**Tech:** JavaScript, Node.js, Gemini API  
-**Repo:** https://github.com/hayamahmoudd/CareerFinderAI
-
-### 🍳 Recipe Generator
-Full-stack app that generates recipes from user-provided ingredients and supports up to **100** results per request.  
-**Tech:** Express.js, JavaScript, Spoonacular API  
-**Repo:** https://github.com/hayamahmoudd/RecipeGenerator
-
----
-
 ## ✅ Highlights
 - 🏆 Dean’s Honours List (3×)
 - 🏆 NCWIT Aspirations in Computing Award
