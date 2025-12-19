@@ -64,10 +64,4 @@ Generates recipes from user-provided ingredients and supports up to **100** resu
 
 ---
 
-## 📈 GitHub stats 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hayamahmoudd&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamahmoudd&layout=compact" />
-</p>
-
 
