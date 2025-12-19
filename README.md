@@ -6,7 +6,7 @@
   </a>
 
   <a href="mailto:hmahmo03@uoguelph.ca">
-    <img alt="Email" src="https://img.shields.io/badge/hmahmo03%40uoguelph.ca=b3324c?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/hmahmo03%40uoguelph.ca-b3324c?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://hayaa.dev">
