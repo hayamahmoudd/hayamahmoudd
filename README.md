@@ -1,73 +1,73 @@
-<!--
-Tip: Add this file to a repo named exactly: hayamahmoudd
-GitHub will display it on your profile.
--->
+<h1 align="center">Hi, I'm Haya 👋</h1>
 
-<h1 align="center">Hi, I’m Haya 👋</h1>
 <p align="center">
-  Software Engineering (Co-op) student at the University of Guelph • AI emphasis • Building practical full-stack + data-driven projects
+  Software Engineering (Co-op) @ University of Guelph • AI emphasis • Full-stack + data projects
 </p>
 
 <p align="center">
-  <a href="https://github.com/hayamahmoudd">GitHub</a> •
-  <a href="https://www.linkedin.com/in/hayamahmoud/">LinkedIn</a>
+  <a href="https://github.com/hayamahmoudd">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hayamahmoud/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Optional -->
+  <!--
+  <a href="mailto:hmahmo03@uoguelph.ca">
+    <img alt="Email" src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  -->
 </p>
 
 ---
 
-## About me
-- 🎓 Bachelor of Computing, Software Engineering (Co-op) @ University of Guelph (AI Area of Emphasis)
-- 🧠 I like building clean, useful products: full-stack apps, data analysis tools, and hackathon projects
-- 🏆 Dean’s Honours List (3x) • NCWIT Aspirations in Computing Award
+## 👩‍💻 About me
+I'm a Software Engineering (Co-op) student at the University of Guelph (AI emphasis). I enjoy building practical products—especially full-stack apps and data-driven tools—and I love projects that turn messy data into something useful.
 
 ---
 
-## Tech I work with
+## 🧰 Tech I work with
 **Languages:** C, Python, Java, JavaScript, HTML/CSS  
-**Frameworks/Libraries:** React, Node.js, Matplotlib, Pandas, P5.js, Java Graphics2D  
-**Tools:** Git, Bash, Valgrind, VS Code, Google Cloud (GCP)
+**Frameworks:** React, Node.js, Express  
+**Data/Visualization:** Pandas, Matplotlib  
+**Tools:** Git, Bash, Google Cloud (GCP)
 
 ---
 
-## Featured projects
+## 🌟 Featured projects
+
 ### 🗺️ ShelterMap Toronto (Sheridan Datathon 2025)
-A full-stack web app built in a 24-hour hackathon that cleans + joins homelessness datasets and maps high-pressure areas to help planners spot priority neighbourhoods.  
-- Tech: Next.js, Leaflet, Python, Google Cloud  
-- 🌟 Nominated for *Best Use of Cloud*  
-Repo: https://github.com/hayamahmoudd/Datathon2025
+Full-stack web app built in a 24-hour hackathon that cleans + joins homelessness datasets and maps high-pressure areas to help identify priority neighbourhoods.  
+**Tech:** Next.js, Leaflet, Python, Google Cloud  
+**Repo:** https://github.com/hayamahmoudd/Datathon2025
 
-### 📊 Statistics Canada Job Vacancy Analysis
-Python analysis tool exploring **219,912** job-vacancy records across **33 quarters**, **14 regions**, and **119 industries** to surface trends over time.  
-- Tech: Python, Seaborn, Git
+### 📊 Job Vacancy Analysis (Statistics Canada)
+Explored **219,912** job-vacancy records across **33** quarters, **14** regions, and **119** industries to surface trends over time.  
+**Tech:** Python, Git
 
-### 🤖 AI-Powered Career Finder
-A web app that uses Gemini to generate **2–3** focused career paths based on user interests (kept intentionally concise).  
-- Tech: JavaScript, Node.js, Gemini API  
-Repo: https://github.com/hayamahmoudd/CareerFinderAI
+### 🤖 AI Career Finder
+Web app that uses Gemini to generate **2–3** focused career paths based on user interests.  
+**Tech:** JavaScript, Node.js, Gemini API  
+**Repo:** https://github.com/hayamahmoudd/CareerFinderAI
 
 ### 🍳 Recipe Generator
-Full-stack app that generates recipes from user-provided ingredients and supports up to **100** results per request.  
-- Tech: Express.js, JavaScript, Spoonacular API  
-Repo: https://github.com/hayamahmoudd/RecipeGenerator
+Generates recipes from user-provided ingredients and supports up to **100** results per request.  
+**Tech:** Express.js, JavaScript, Spoonacular API  
+**Repo:** https://github.com/hayamahmoudd/RecipeGenerator
 
 ---
 
-## Experience
-- 🏟️ Server / Shift Leader @ Sleeman Centre (Guelph) — fast-paced environment, leadership & operations
-- 📚 Math/Science Tutor — helped Gr. 9–12 students across multiple subjects
+## ✅ Highlights
+- 🏆 Dean’s Honours List (3x)
+- 🏆 NCWIT Aspirations in Computing Award
+- 🎯 Interested in: full-stack, backend, data pipelines, and cloud-powered apps
 
 ---
 
-## GitHub stats (optional)
-<!-- Replace "hayamahmoudd" if you ever change your username -->
-<p>
+## 📈 GitHub stats 
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=hayamahmoudd&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamahmoudd&layout=compact" />
 </p>
 
----
-
-## Let’s connect
-- LinkedIn: https://www.linkedin.com/in/hayamahmoud/
-- GitHub: https://github.com/hayamahmoudd
 
