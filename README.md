@@ -6,11 +6,11 @@
   </a>
 
   <a href="mailto:hmahmo03@uoguelph.ca">
-    <img alt="Email" src="https://img.shields.io/badge/hmahmo03%40uoguelph.ca-F472B6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/hmahmo03%40uoguelph.ca=b3324c?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://hayaa.dev">
-    <img alt="Website" src="https://img.shields.io/badge/hayaa.dev-D6C7A1?style=for-the-badge&logo=vercel&logoColor=4B3621" />
+    <img alt="Website" src="https://img.shields.io/badge/hayaa.dev-D6C7A1?style=for-the-badge&logo=vercel&logoColor=a1878c" />
   </a>
 </p>
 
