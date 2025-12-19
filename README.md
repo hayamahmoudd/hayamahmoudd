@@ -1,22 +1,19 @@
 <h1 align="center">Hi, I'm Haya 👋</h1>
 
 <p align="center">
-  Software Engineering (Co-op) @ University of Guelph • AI emphasis • Full-stack + data projects
+  Software Engineering (Co-op) @ University of Guelph • AI emphasis • Full Stack + Data Projects
 </p>
 
 <p align="center">
-  <a href="https://github.com/hayamahmoudd">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/hayamahmoud/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Optional -->
-  <!--
   <a href="mailto:hmahmo03@uoguelph.ca">
-    <img alt="Email" src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-hmahmo03%40uoguelph.ca-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  -->
+  <a href="https://hayaa.dev">
+    <img alt="Website" src="https://img.shields.io/badge/Website-hayaa.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -37,7 +34,7 @@ I'm a Software Engineering (Co-op) student at the University of Guelph with an e
 ## 🌟 Featured projects
 
 ### 🗺️ ShelterMap Toronto (Sheridan Datathon 2025)
-Full-stack web app built in a 24-hour hackathon that cleans + joins homelessness datasets and maps high-pressure areas to help identify priority neighbourhoods.  
+Full-stack web app built in a 24-hour hackathon that cleans + joins homelessness datasets and maps high pressure areas to help identify priority neighbourhoods.  
 **Tech:** Next.js, Leaflet, Python, Google Cloud  
 **Repo:** https://github.com/hayamahmoudd/Datathon2025
 
@@ -60,8 +57,7 @@ Generates recipes from user-provided ingredients and supports up to **100** resu
 ## ✅ Highlights
 - 🏆 Dean’s Honours List (3x)
 - 🏆 NCWIT Aspirations in Computing Award
-- 🎯 Interested in: full-stack, backend, data pipelines, and cloud-powered apps
+- 🎯 Interested in: full-stack, backend, data pipelines, and cloud powered apps
 
----
 
 
