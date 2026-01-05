@@ -17,12 +17,12 @@
 
 ---
 
-## 👩‍💻 About me
+## About me
 I'm a Software Engineering (Co-op) student at the University of Guelph with an emphasis in AI. I enjoy building practical products, especially full-stack apps and data driven, AI powered tools that turn real world problems into clean, usable solutions.
 
 ---
 
-## 🧰 Tech I work with
+## Tech I work with
 **Languages:** C, Python, Java, JavaScript, HTML/CSS  
 **Frameworks:** React, Node.js, Express  
 **Data & Visualization:** Pandas, Matplotlib  
@@ -30,7 +30,7 @@ I'm a Software Engineering (Co-op) student at the University of Guelph with an e
 
 ---
 
-## ✅ Highlights
+## Some Interesting Facts
 - 🏆 Dean’s Honours List (3×)
 - 🏆 NCWIT Aspirations in Computing Award
 - 🎯 Interested in full-stack development, backend systems, data pipelines, and cloud powered applications
