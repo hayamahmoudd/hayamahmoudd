@@ -23,10 +23,10 @@ I'm a Software Engineering (Co-op) student at the University of Guelph with an e
 ---
 
 ## Tech I work with
-**Languages:** C, Python, Java, JavaScript, HTML/CSS  
-**Frameworks:** React, Node.js, Express  
+**Languages:** C, Python, Java, JavaScript, TypeScript, HTML/CSS, SQL
+**Frameworks:** React, Node.js, Express.js, Next.js
 **Data & Visualization:** Pandas, Matplotlib  
-**Tools:** Git, Bash, Google Cloud (GCP)
+**Tools:** Git, Bash, Google Cloud (GCP), Docker
 
 ---
 
