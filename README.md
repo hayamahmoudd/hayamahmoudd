@@ -16,7 +16,7 @@
 
 I'm a third year Software Engineering Co-op student at the University of Guelph, with a focus on AI. I like building things that actually get used.
 
-I am currently working at **Kenna** as an Application Developer Co-op and this Fall I will be joining FreshBooks as a Full Stack Software Engineer Co-op which I'm really excited about.
+I am currently working at **Kenna** as an **Application Developer Co-op** and this Fall I will be joining **FreshBooks** as a **Full Stack Software Engineer Co-op** which I'm really excited about.
 
 Outside of that I'm usually in the middle of some assignment, some side project, or trying to learn new technologies.
 
